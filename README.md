@@ -1,4 +1,3 @@
-![Alt text](/public/web4-Photoroom.png "a title")
 [![Alt text](/public/web4-Photoroom.png '3D slider')](https://cylinder-work-showcase.vercel.app/)
 
 <h1>3D Cylinder Slider</h1>
